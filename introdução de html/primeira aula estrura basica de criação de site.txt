@@ -1,0 +1,15 @@
+estrutura basica de criação de site
+
+vscode:
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Daniel</title>
+    </head>
+    <body>
+        Daniel
+    </body>
+</html>
+ 
